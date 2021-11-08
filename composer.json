@@ -14,7 +14,7 @@
         "mrgoodbytes8667/test-common": ">=0.0.18",
         "mrgoodbytes8667/test-common-faker": "^0.3.3",
         "symfony/test-pack": "^1.0.8",
-        "symfony/var-dumper": "^5.3"
+        "symfony/var-dumper": "^5.3 | ^6.0"
     },
     "authors": [
         {
@@ -45,5 +45,6 @@
             "Bytes\\DiscordInteractionBundle\\": "src/",
             "Bytes\\DiscordInteractionBundle\\Tests\\": "Tests/"
         }
-    }
+    },
+    "minimum-stability": "dev"
 }
