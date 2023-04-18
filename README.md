@@ -1,10 +1,11 @@
 # discord-interaction-bundle
 [![Packagist Version](https://img.shields.io/packagist/v/mrgoodbytes8667/discord-interaction-bundle?logo=packagist&logoColor=FFF&style=flat)](https://packagist.org/packages/mrgoodbytes8667/discord-interaction-bundle)
 [![PHP from Packagist](https://img.shields.io/packagist/php-v/mrgoodbytes8667/discord-interaction-bundle?logo=php&logoColor=FFF&style=flat)](https://packagist.org/packages/mrgoodbytes8667/discord-interaction-bundle)
-![Symfony Versions Supported](https://img.shields.io/endpoint?url=https%3A%2F%2Fshields.goodbytes.live%2Fshield%2Fsymfony%2F%255E5.3%2520%257C%2520%255E6.0&logoColor=FFF&style=flat)
-![Symfony Versions Tested](https://img.shields.io/endpoint?url=https%3A%2F%2Fshields.goodbytes.live%2Fshield%2Fsymfony-test%2F%253E%253D5.3%2520%253C6.1&logoColor=FFF&style=flat)  
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/mrgoodbytes8667/discord-interaction-bundle/release?label=stable&logo=github&logoColor=FFF&style=flat)
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/mrgoodbytes8667/discord-interaction-bundle/tests?logo=github&logoColor=FFF&style=flat)
+![Symfony Versions Supported](https://img.shields.io/endpoint?url=https%3A%2F%2Fshields.mrgoodbytes.dev%2Fshield%2Fsymfony%2F%255E5.3%2520%257C%2520%255E6.0&logoColor=FFF&style=flat)
+![Symfony Versions Tested](https://img.shields.io/endpoint?url=https%3A%2F%2Fshields.mrgoodbytes.dev%2Fshield%2Fsymfony-test%2F%253E%253D5.3%2520%253C6.1&logoColor=FFF&style=flat)  
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/mrgoodbytes8667/discord-interaction-bundle/release.yml?label=stable&logo=github&logoColor=FFF&style=flat)
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/mrgoodbytes8667/discord-interaction-bundle/run-tests.yml?logo=github&logoColor=FFF&style=flat)
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/mrgoodbytes8667/discord-interaction-bundle/run-tests-by-version.yml?logo=github&logoColor=FFF&style=flat)
 [![codecov](https://img.shields.io/codecov/c/github/mrgoodbytes8667/discord-interaction-bundle?logo=codecov&logoColor=FFF&style=flat)](https://codecov.io/gh/mrgoodbytes8667/discord-interaction-bundle)
 ![Packagist License](https://img.shields.io/packagist/l/mrgoodbytes8667/discord-interaction-bundle?logo=creative-commons&logoColor=FFF&style=flat)  
 A Symfony bundle providing Discord Application Command interaction events
@@ -51,5 +52,5 @@ Note: this bundle depends on the [Enum-Serializer-Bundle](https://github.com/mrg
 
 ## License
 [![License](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)]("http://creativecommons.org/licenses/by-nc/4.0/)  
-discord-interaction-bundle by [MrGoodBytes](https://www.goodbytes.live) is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/).  
+discord-interaction-bundle by [MrGoodBytes](https://mrgoodbytes.dev) is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/).  
 Based on a work at [https://github.com/mrgoodbytes8667/discord-interaction-bundle](https://github.com/mrgoodbytes8667/discord-interaction-bundle).

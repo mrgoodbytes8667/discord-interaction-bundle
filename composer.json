@@ -19,7 +19,7 @@
     "authors": [
         {
             "name": "MrGoodBytes",
-            "email": "bytes@goodbytes.live"
+            "email": "bytes@mrgoodbytes.dev"
         }
     ],
     "config": {
@@ -45,5 +45,6 @@
             "Bytes\\DiscordInteractionBundle\\": "src/",
             "Bytes\\DiscordInteractionBundle\\Tests\\": "Tests/"
         }
-    }
+    },
+    "minimum-stability": "dev"
 }
