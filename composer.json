@@ -4,9 +4,9 @@
     "type": "symfony-bundle",
     "license": "CC-BY-NC-4.0",
     "require": {
-        "php": "^8.0",
+        "php": "^8.1",
         "ext-json": "*",
-        "mrgoodbytes8667/discord-response-bundle": ">=0.11.2 <0.20"
+        "mrgoodbytes8667/discord-response-bundle": "0.15.x-dev"
     },
     "require-dev": {
         "doctrine/common": "^3.0",
@@ -14,7 +14,7 @@
         "mrgoodbytes8667/test-common": ">=0.0.18",
         "mrgoodbytes8667/test-common-faker": "^0.3.3",
         "symfony/test-pack": "^1.0.8",
-        "symfony/var-dumper": "^5.3 | ^6.0"
+        "symfony/var-dumper": "^6.1"
     },
     "authors": [
         {
@@ -35,7 +35,6 @@
         "doctrine/persistence": "<2.1.0",
         "mrgoodbytes8667/response-bundle": "<2.0.14",
         "phpunit/phpunit": "<9.5 || 9.5.8",
-        "spatie/enum": "<3.7.2",
         "symfony/property-access": "<5.3.0",
         "symfony/property-info": "<5.3.0",
         "symfony/serializer": "<5.2.2"
