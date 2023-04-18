@@ -6,7 +6,7 @@
     "require": {
         "php": "^8.1",
         "ext-json": "*",
-        "mrgoodbytes8667/discord-response-bundle": "0.15.x-dev"
+        "mrgoodbytes8667/discord-response-bundle": "^0.15 | ^0.16"
     },
     "require-dev": {
         "doctrine/common": "^3.0",
