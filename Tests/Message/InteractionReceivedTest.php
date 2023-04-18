@@ -29,12 +29,12 @@ class InteractionReceivedTest extends TestCase
     public function testCreateFromInteraction()
     {
         $int = new Interaction();
-        $int->setType(InteractionType::applicationCommand());
+        $int->setType(InteractionType::APPLICATION_COMMAND);
 
         $received = InteractionReceived::createFromInteraction($int);
 
         $this->assertInstanceOf(InteractionReceived::class, $received);
-        $this->assertEquals(InteractionType::applicationCommand(), $received->getType());
+        $this->assertEquals(InteractionType::APPLICATION_COMMAND, $received->getType());
     }
 
     /**
