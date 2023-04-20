@@ -9,7 +9,7 @@
 ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/mrgoodbytes8667/discord-interaction-bundle/release.yml?label=stable&logo=github&logoColor=FFF&style=flat)
 ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/mrgoodbytes8667/discord-interaction-bundle/run-tests.yml?logo=github&logoColor=FFF&style=flat)
 ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/mrgoodbytes8667/discord-interaction-bundle/run-tests-by-version.yml?logo=github&logoColor=FFF&style=flat)
-[![codecov](https://img.shields.io/codecov/c/github/mrgoodbytes8667/discord-interaction-bundle/0.15?logo=codecov&logoColor=FFF&style=flat)](https://codecov.io/gh/mrgoodbytes8667/discord-interaction-bundle)
+[![codecov](https://img.shields.io/codecov/c/github/mrgoodbytes8667/discord-interaction-bundle/0.16?logo=codecov&logoColor=FFF&style=flat)](https://codecov.io/gh/mrgoodbytes8667/discord-interaction-bundle)
 ![Packagist License](https://img.shields.io/packagist/l/mrgoodbytes8667/discord-interaction-bundle?logo=creative-commons&logoColor=FFF&style=flat)  
 A Symfony bundle providing Discord Application Command interaction events
 
